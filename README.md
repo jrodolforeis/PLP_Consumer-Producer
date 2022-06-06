@@ -5,11 +5,3 @@ Implementação realizada em Java.
 
 FUNCIONAMENTO:
 O código é executado no Controller (classe Main), que é responsável por criar um Buffer que irá inicializar as threads.
-
-      ,~~.
-     (  9 )-_,
-(\___ )=='-'
- \ .   ) )
-  \ `-' /
-   `~j-'   hjw
-     "=:
